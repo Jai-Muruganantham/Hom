@@ -29,7 +29,7 @@ particlesJS('particles-js',
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#0a0833"
         },
         "polygon": {
           "nb_sides": 5
@@ -122,7 +122,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#000000",
+      "background_color": "#0a0833",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
